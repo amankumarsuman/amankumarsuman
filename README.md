@@ -20,7 +20,7 @@
 
 - 👨‍💻 **All of my projects are available at :** [https://github.com/amankumarsuman/](https://github.com/amankumarsuman/)
 
-- 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React
+- 💬 **Ask me about :** Html,Css, Data Structures and Algorithms, JavaScript, React,
 
 - 📄 **Find my Resume :** [https://drive.google.com/file/d/13MLrO7K44KkP_K1E_AFoQcPKtaqhCdOm/view]
 
