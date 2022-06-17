@@ -26,7 +26,7 @@
 
 - 🥅 **2022 Goals :** Learning new things and contribute more
 
-- ⚡ **Fun fact :** I'm always in Learning mode
+- ⚡ **Fun fact :** I Love to be  in Learning mode
 
 
 <h3 align="left">Find me around the web</h3>
