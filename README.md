@@ -16,17 +16,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p>
 
 
-- 🌱 **I’m currently learning :**React,Redux
+- 🌱 **I’m currently learning :**web3,BlockChain,solidity,flutter,dart
 
 - 👨‍💻 **All of my projects are available at :** [https://github.com/amankumarsuman/](https://github.com/amankumarsuman/)
 
-- 💬 **Ask me about :** Html,Css, Data Structures and Algorithms, JavaScript, React,
+- 💬 **Ask me about :** Html,Css, Data Structures and Algorithms, JavaScript, React,Redux,Material-ui,NextJs,Dart,Flutter
 
 - 📄 **Find my Resume :** [https://drive.google.com/file/d/13MLrO7K44KkP_K1E_AFoQcPKtaqhCdOm/view]
 
-- 🥅 **2021 Goals :** Learning new things and contribute more
+- 🥅 **2022 Goals :** Learning new things and contribute more
 
-- ⚡ **Fun fact :** I'm a Foody Person
+- ⚡ **Fun fact :** I'm always in Learning mode
 
 
 <h3 align="left">Find me around the web</h3>
