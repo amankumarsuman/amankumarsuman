@@ -22,7 +22,7 @@
 
 - 💬 **Ask me about :** Html,Css, Data Structures and Algorithms, JavaScript, React,Redux,Material-ui,NextJs,Dart,Flutter
 
-- 📄 **Find my Resume :** [https://drive.google.com/file/d/13MLrO7K44KkP_K1E_AFoQcPKtaqhCdOm/view]
+- 📄 **Find my Resume :** [https://drive.google.com/drive/folders/13DHyQtgGQ3dkwx3-3NIJIV_fGfGN-jCt]
 
 - 🥅 **2022 Goals :** Learning new things and contribute more
 
