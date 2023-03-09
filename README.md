@@ -22,8 +22,6 @@
 
 - 💬 **Ask me about :** Html,Css, Data Structures and Algorithms, JavaScript, React,Redux,Material-ui,NodeJs,Express,Solidity,
 
-- 📄 **Find my Resume :** [https://drive.google.com/drive/folders/13DHyQtgGQ3dkwx3-3NIJIV_fGfGN-jCt]
-
 - 🥅 **2023 Goals :** Learning new things and contribute more
 
 - ⚡ **Fun fact :** I Love to be  in Learning mode
